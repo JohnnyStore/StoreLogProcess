@@ -1,0 +1,7 @@
+{
+  "logDir": "C:\\Users\\ZhangQiang\\Documents\\logs",
+  "processedDir": "C:\\Users\\ZhangQiang\\Documents\\processedLog",
+  "errorDir": "C:\\Users\\ZhangQiang\\Documents\\errorLog",
+  "processingDir": "C:\\Users\\ZhangQiang\\Documents\\processing",
+  "scheduleIntervalMinute": 1
+}
