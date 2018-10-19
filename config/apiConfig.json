@@ -1,6 +1,6 @@
 {
   "StoreService": {
-    "host": "localhost",
+    "host": "23.98.35.131",
     "port": 8080,
     "path": {
       "systemLog": "/api/systemLog"
